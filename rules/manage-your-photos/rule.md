@@ -31,7 +31,7 @@ There are 3 main ways you can organize your photos using Google Photos:
 
 ## Google Photos via links
 
-Google Photos can be used as a repository, but it can also be used as a file-sharing tool. If you want multiple people to add photos to an album, you can create a link and share it for others to use. It's quick, easy, and doesn't require special access to your repository. 
+Google Photos can be used as a repository, but it can also be used as a file-sharing tool. If you want multiple people to add photos to an album, you can create a link and share it for others to use. It's quick, easy, and doesn't require special access to your repository.
 
 One limitation to be aware of is that whoever uploads the photos maintains control over the image. So, if an admin or the uploader removes their access to a folder, so too are their images.
 
@@ -41,11 +41,11 @@ Inviting lots of people to share their photos of an event with you can create cu
 
 To avoid storage space issues (everyone gets 15 GB), it is a better practice to have a 'staging area' that everyone can upload their photos to, so they can be curated, and only the good ones can then be uploaded to Google.
 
-You could use SharePoint or a file server for this purpose. 
+You could use SharePoint or a file server for this purpose.
 
 ## File Server as a staging area  + Google Photos
 
-If you use a file server as your staging area, it is then possible to use the Google API to automatically upload files to your Google Photos storage. It takes a little more time to set up, but it saves you time in the long run! 
+If you use a file server as your staging area, it is then possible to use the Google API to automatically upload files to your Google Photos storage. It takes a little more time to set up, but it saves you time in the long run!
 
 Watch the video to know more:
 
